@@ -29,6 +29,6 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun GreetingPreview() {
     AppEC2Theme {
-        Greeting("Android")
+
     }
 }
